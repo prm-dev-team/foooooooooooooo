@@ -1,2 +1,4 @@
 discordapp.com/api/webhooks/363115391473680395/91nFHPPElzPaqwerqsrrrqawefvasdwpNO-_z9FCGb_cK4P4f90-bwOJJnNTNiZixPgh
 xoxb-263594206474-FGqddMF7t14v8N45q4i57vs4
+
+test_slack_key = "xoxb-271294213964-FGqddMF8t18v8N7Oq4i59vs2"
